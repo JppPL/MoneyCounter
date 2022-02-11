@@ -36,9 +36,9 @@ MoneyCounter was developed by JPP- contact: jpp@int.pl
 
 5. Versions
 
-2.5 - make list of categories configurable in external file, all app translatd into english. Refactor of all components to be ready
-2.4 - fixed bug with numbers in payment title - added conversion to string.
-2.3 - fixed saving entered category for pkobp files-  it should in column M not H, make erorr messages more meaningful for end user
-2.2 - removed graphic interface, only CLI, fixed bug with PKO categories, fixed issue with card costs in PKO files
-2.1 - error handling added and some comments, also popups made meaninigful
-2.0 - first release
+- 2.5 - make list of categories configurable in external file, all app translatd into english. Refactor of all components to be ready for publishing
+- 2.4 - fixed bug with numbers in payment title - added conversion to string.
+- 2.3 - fixed saving entered category for pkobp files-  it should in column M not H, make erorr messages more meaningful for end user
+- 2.2 - removed graphic interface, only CLI, fixed bug with PKO categories, fixed issue with card costs in PKO files
+- 2.1 - error handling added and some comments, also popups made meaninigful
+- 2.0 - first release
