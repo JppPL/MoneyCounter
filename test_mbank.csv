@@ -1,0 +1,46 @@
+mBank S.A. Bankowoœæ Detaliczna;
+		Skrytka Pocztowa 2108;
+		90-959 £ódŸ 2;
+		www.mBank.pl;
+		mLinia: 801 300 800;
+		+48 (42) 6 300 800;
+		
+
+#Klient;
+PIOTR KOWALSKI;
+
+Elektroniczne zestawienie operacji;
+
+#Za okres:;
+01.03.2021;31.03.2021;
+#Rodzaj rachunku;
+EKONTO;
+#Waluta;
+PLN;
+#Numer rachunku;
+xxxx ;
+#Data nastêpnej kapitalizacji;
+2021-04-30;
+#Oprocentowanie rachunku;
+0,00%;
+#Limit kredytu;
+0,00 PLN;
+#Oprocentowanie kredytu;
+0,00%;
+
+#Podsumowanie obrotów na rachunku;#Liczba operacji;#Wartoœæ operacji
+Uznania;xx PLN;
+Obci¹¿enia;xx PLN;
+£¹cznie;xx PLN;
+
+#Saldo pocz¹tkowe;3000 PLN;
+
+#Data operacji;#Data ksiêgowania;#Opis operacji;#Tytu³;#Nadawca/Odbiorca;#Numer konta;#Kwota;#Saldo po operacji;
+2021-03-01;2021-03-01;ZAKUP PRZY U¯YCIU KARTY;"Kwiaciarnia /Warszawa                                          DATA TRANSAKCJI: 2021-02-27";"  ";'';-44,00;576,49;
+2021-03-01;2021-03-01;ZAKUP PRZY U¯YCIU KARTY;"ZABKA   /WARSZAWA                                          DATA TRANSAKCJI: 2021-02-27";"  ";'';-2,20;574,29;
+2021-03-01;2021-03-01;ZAKUP PRZY U¯YCIU KARTY;"CUKIERNIA               /Warszawa                                          DATA TRANSAKCJI: 2021-02-27";"  ";'';-70,00;504,29;
+
+
+;;;;;;#Saldo koñcowe;2 943,86 PLN;
+
+Niniejszy dokument sporz¹dzono na podstawie art. 7 Ustawy Prawo Bankowe (Dz. U. Nr 140 z 1997 roku, poz.939 z póŸniejszymi zmianami).
